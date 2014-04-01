@@ -1,4 +1,4 @@
-m=input("Please enter your number: ")
+m=input("Please enter your  number: ")
 n=input("Please enter your second number: ")
 
 l= m+n
